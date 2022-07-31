@@ -1,3 +1,8 @@
+---
+title: "Blogging Day #1"
+date: 2022-07-31
+---
+
 Hello fellow internet travelers, 
 
 You have arrived at Foxies Oasis 🌴, we heid to our travelers curiousity and hunger for knowledge. From anacdotes from a cal poly 
