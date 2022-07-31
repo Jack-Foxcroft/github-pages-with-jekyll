@@ -1,13 +1,10 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-
+theme: minima
+title: Welcome To Jack Foxcrofts 2022 Portfoliio :sparkles:
+author: Jack Foxcroft
+email: foxcroftjack@gmail.com
+description: An environment that I will be populating with my projects and helpful information. I talk about Engineering at Cal Poly, learning STEM in college, working on projects, and my first internship.
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: NA # DO NOT include the @ character, or else the build will fail!
+github_username:  Jack-Foxcroft # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
